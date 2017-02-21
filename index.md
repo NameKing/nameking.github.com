@@ -1,13 +1,29 @@
-## Welcome to KingDay.com
 
-  The Domain you visit is for sale!
-  您访问的域名可能出售或转让！
-  
-connect me:
-联系方式
+<!DOCTYPE html>
+.container{margin:0 auto;width:960px;} 
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Welcome to KingDay.com</title>
+    <link href="/assets/css/style.css?v=e8bb831c9a06b5787af1fb0dafd9cc4b23768456" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container" >
+      <h2 id="welcome-to-kingdaycom">Welcome to KingDay.com</h2>
 
-e-mail:arvinow@gmail.com
+<p>The Domain you visit is for sale!
+  您访问的域名可能出售或转让！</p>
 
-tel:18688207521
+<p>connect me:
+联系方式</p>
 
-QQ:993035696
+<p>e-mail:arvinow@gmail.com</p>
+
+<p>tel:18688207521</p>
+
+<p>QQ:993035696</p>
+
+    </div>
+  </body>
+</html>
